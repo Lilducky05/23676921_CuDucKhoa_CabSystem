@@ -32,9 +32,17 @@ Phân rã vấn đề của thiết kế.
 ví dụ SR01 quản lý khách hàng 
 Đăng ký đăng nhập cập nhật thông tin ..... (giống như 1 API có nhiều AimPoint)
 
-
 Bước 8: Thiết kế Quy tắc nghiệp vụ và ngoại lệ (Business rules & Exception)
 
 Bước 9: Mô hình hóa dữ liệu vào trong hệ thống (Xác định thực thể trong mô hình ERD)
 
 Bước 10: Non-Functional Requirements ( Xác định yêu cầu phi chức năng)
+
+Bước 11: Tiến hành vẽ các UseCase 
+
+Bước 12: Tạo đặc tả về Use Case 
+
+Bước 13: Tạo AC tiêu chí chấp nhận 
+để xác nhận chức năng này đã đúng với yêu cầu của khách hàng và sẵn sàng được nghiệm thu 
+
+Bước 14: Truy xuất nguồn gốc yêu cầu (RTM)
